@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://143wange.top/2023/12/10/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AD%94%E6%A1%88/</loc>
+    
+    <lastmod>2023-12-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://143wange.top/2023/09/21/Centos7%E5%AE%89%E8%A3%85Mysql8-0/</loc>
     
     <lastmod>2023-09-22</lastmod>
@@ -157,7 +166,7 @@
 
   <url>
     <loc>https://143wange.top/</loc>
-    <lastmod>2023-10-11</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,14 +174,14 @@
   
   <url>
     <loc>https://143wange.top/tags/MySQL/</loc>
-    <lastmod>2023-10-11</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://143wange.top/tags/Java/</loc>
-    <lastmod>2023-10-11</lastmod>
+    <lastmod>2023-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
