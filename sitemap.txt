@@ -1,6 +1,10 @@
+https://143wange.top/2024/06/13/IDEA2024-1%E5%AE%89%E8%A3%85%E5%B9%B6%E7%A0%B4%E8%A7%A3/
+https://143wange.top/2024/06/08/Navicat16%E5%AE%89%E8%A3%85%E4%B8%8E%E6%BF%80%E6%B4%BB/
+https://143wange.top/2023/06/05/%E5%BD%93%E5%87%BA%E7%8E%B0is%20not%20allowed%20to%20connect%20to%20this%20MySql%20server%E6%97%B6%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3/
+https://143wange.top/2024/06/08/Win%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85Mysql/
+https://143wange.top/2024/02/26/c%E8%AF%AD%E8%A8%80%E5%B8%B8%E8%A7%81%E9%A2%98%E5%9E%8B/
 https://143wange.top/2023/12/10/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%AD%94%E6%A1%88/
 https://143wange.top/2023/09/21/Centos7%E5%AE%89%E8%A3%85Mysql8-0/
-https://143wange.top/2023/06/05/%E5%BD%93%E5%87%BA%E7%8E%B0is%20not%20allowed%20to%20connect%20to%20this%20MySql%20server%E6%97%B6%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3/
 https://143wange.top/tags/index.html
 https://143wange.top/2023/06/21/Java-%E7%99%BE%E9%92%B1%E4%B9%B0%E7%99%BE%E9%B8%A1/
 https://143wange.top/2023/06/18/hexo%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E5%85%B6%E4%B8%80/
@@ -19,3 +23,5 @@ https://143wange.top/2023/01/06/hello-world/
 https://143wange.top/
 https://143wange.top/tags/MySQL/
 https://143wange.top/tags/Java/
+https://143wange.top/tags/Navicat/
+https://143wange.top/tags/IDEA/
